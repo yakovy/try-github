@@ -1,0 +1,1 @@
+document.getElementById("index1").innerHTML
